@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "454897328455",
+    "project_id": "wito-3a8da",
+    "storage_bucket": "wito-3a8da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454897328455:android:e37bc20f45259193f0ec62",
+        "android_client_info": {
+          "package_name": "com.example.wito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454897328455-2v85i30qtnkh7sjpbseuurgav6oa6al1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgtVLVupvw-BDlx9wKQhe6sRwS4HLTgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454897328455-2v85i30qtnkh7sjpbseuurgav6oa6al1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454897328455-374ab50ghr4sra71foijg8jgac22ep5q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wito"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
